@@ -9,7 +9,9 @@
 
  - ✔ MERN Stack
  - ✔ Apollo GraphQL
+ - ✔ Hono
  - ✔ MongoDB
+ - ✔ SQL
  - ✔ ReactJs
  - ✔ NextJs
  - ✔ Tailwind CSS
