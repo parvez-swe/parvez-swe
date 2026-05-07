@@ -11,6 +11,8 @@
  - ✔ Apollo GraphQL
  - ✔ Hono
  - ✔ MongoDB
+ - ✔ PostgreSQL
+ - ✔ Redis
  - ✔ SQL
  - ✔ ReactJs
  - ✔ NextJs
