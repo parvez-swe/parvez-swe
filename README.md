@@ -1,4 +1,4 @@
-### Hey, I am Parvez Musharaf, I am a Software Engineering Student and A Freelance Full Stack Developer 👋
+### Hey, I am Parvez Musharaf, I am a Software Engineering Student and A Freelance Full Stack Developer
 
 - 👀 I am currently learning "Software Architecture" and advanced concepts of "Node.js".
 - 💻 I run a Tech YouTube Channel where I try to help the people. I am interested in web and mobile app development, and open-source collaborations.
