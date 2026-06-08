@@ -9,6 +9,7 @@
 
  - ✔ MERN Stack
  - ✔ Apollo GraphQL
+ - ✔ Supabase
  - ✔ Hono
  - ✔ MongoDB
  - ✔ PostgreSQL
